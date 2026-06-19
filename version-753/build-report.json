@@ -1,0 +1,24 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2014,
+  "baidu_script_pages": 2014,
+  "category_pages": 10,
+  "category_counts": {
+    "hot-series": 200,
+    "urban-romance": 200,
+    "mystery": 200,
+    "comedy-healing": 200,
+    "action-adventure": 200,
+    "fantasy-animation": 200,
+    "history-costume": 200,
+    "documentary": 200,
+    "global-drama": 200,
+    "latest": 200
+  },
+  "category_coverage": 2000,
+  "category_missing_ids": [],
+  "jpg_files_in_zip_source": [],
+  "visible_forbidden_pages": [],
+  "zip_size_bytes": 10575319
+}
